@@ -1,0 +1,7 @@
+﻿I prefer to use complex statements over nested statement.  I find that complex statements are easier to read and follow.
+Nested statements can get very hard to follow depending on how deeply the statements are nested.  This in my opinion could
+lead to more errors in the code.
+
+Of course there are certain circumstances that nested statement are more useful then complex statements.
+For instance when having to check multiple conditions in a specific order, or if you have to execute
+different code based on the results of multiple conditions.

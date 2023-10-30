@@ -2,10 +2,19 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CProm_Lab3.cs">
     <Files>
-      <File FileName="Program.cs" Line="37" Column="46" />
+      <File FileName="CProm_Lab3.cs" Line="41" Column="152" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CProm_Lab3">
+            <Node name="CProm_Lab3">
+              <Node name="CProm_Lab3.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
         <State name="__root__">
           <Node name="CProm_Lab3" expanded="True" />
         </State>

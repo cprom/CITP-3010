@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{20F26B46-3760-4CCD-ACE2-F4042AF0AE82}|Default">
+  <MonoDevelop.Ide.ItemProperties.CProm__Exam1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CProm_Exam1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="60" Column="70" />
+      <File FileName="MyNumbers.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CProm_Exam1" expanded="True">
+            <Node name="CProm_Exam1">
+              <Node name="MyNumbers.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

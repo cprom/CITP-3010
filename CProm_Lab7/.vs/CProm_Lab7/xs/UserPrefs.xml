@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4413AF03-5660-4DDD-849F-BED87BA6CC6A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CProm__Lab7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CProm_Lab7_Challenge.txt">
+    <Files>
+      <File FileName="Program.cs" Line="32" Column="27" />
+      <File FileName="EmptyTextFile.txt" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CProm_Lab7" expanded="True">
+            <Node name="CProm_Lab7">
+              <Node name="CProm_Lab7_Challenge.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CProm_Lab7" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

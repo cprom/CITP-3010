@@ -1,0 +1,15 @@
+/Users/cprom/Projects/CProm_Lab6/bin/Debug/net7.0/CProm_Lab6
+/Users/cprom/Projects/CProm_Lab6/bin/Debug/net7.0/CProm_Lab6.deps.json
+/Users/cprom/Projects/CProm_Lab6/bin/Debug/net7.0/CProm_Lab6.runtimeconfig.json
+/Users/cprom/Projects/CProm_Lab6/bin/Debug/net7.0/CProm_Lab6.dll
+/Users/cprom/Projects/CProm_Lab6/bin/Debug/net7.0/CProm_Lab6.pdb
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.csproj.AssemblyReference.cache
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.AssemblyInfoInputs.cache
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.AssemblyInfo.cs
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.csproj.CoreCompileInputs.cache
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.dll
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/refint/CProm_Lab6.dll
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.pdb
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/CProm_Lab6.genruntimeconfig.cache
+/Users/cprom/Projects/CProm_Lab6/obj/Debug/net7.0/ref/CProm_Lab6.dll
