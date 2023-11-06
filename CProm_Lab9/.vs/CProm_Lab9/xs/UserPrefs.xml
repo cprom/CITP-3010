@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BC9B14DB-683E-4A2A-A6F6-AF738564628B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CProm__Lab9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CProm_Lab9.cs">
+    <Files>
+      <File FileName="Program.cs" Line="50" Column="18" />
+      <File FileName="Dictionary.txt" Line="40034" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CProm_Lab9" expanded="True">
+            <Node name="CProm_Lab9">
+              <Node name="Dictionary.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
