@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/cprom/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/cprom/Desktop/CITP-3310-SURVEY OF PROGRAMMING LANG/CITP-3310/CProm_Lab13/CProm_Lab13.csproj",
+      "projectName": "CProm_Lab13",
+      "projectPath": "/Users/cprom/Desktop/CITP-3310-SURVEY OF PROGRAMMING LANG/CITP-3310/CProm_Lab13/CProm_Lab13.csproj",
+      "packagesPath": "/Users/cprom/.nuget/packages/",
+      "outputPath": "/Users/cprom/Desktop/CITP-3310-SURVEY OF PROGRAMMING LANG/CITP-3310/CProm_Lab13/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/cprom/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C91F57BE-1721-46DD-85E6-DFCCCEFB9265}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CProm_Lab13.cs">
+    <Files>
+      <File FileName="CProm_Lab13.cs" Line="199" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CProm_Lab13" expanded="True">
+            <Node name="CProm_Lab13">
+              <Node name="CProm_Lab13.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CProm_Lab13" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CProm__Lab13 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
